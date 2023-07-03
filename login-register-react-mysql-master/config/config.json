@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "richa",
+    "password": "Tss@123456",
+    "database": "userauth",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "mysql"
+  }
+}
